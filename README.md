@@ -2,4 +2,4 @@
 
 Repositório de teste
 
-![./star.jpg]( Star Wars)
+!["star.jpg"]
